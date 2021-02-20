@@ -1,0 +1,12 @@
+{
+  "name": "FurnitureApp",
+  "displayName": "FurnitureApp",
+  "expo": {
+    "name": "FurnitureApp",
+    "slug": "FurnitureApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
